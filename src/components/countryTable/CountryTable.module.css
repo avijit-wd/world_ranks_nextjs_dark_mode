@@ -58,9 +58,9 @@
   transition: all 0.2s ease-in-out;
 }
 
-.row:nth-child(even) {
+/* .row:nth-child(even) {
   background-color: var(--background-color-light);
-}
+} */
 
 .row:hover {
   transform: translateY(-4px);
